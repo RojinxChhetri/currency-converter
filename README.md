@@ -112,5 +112,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 ## License
 
 This project is open source and available under the [MIT License](LICENSE). Feel free to use it for your own projects!
-
----
